@@ -1,0 +1,14 @@
+body {
+  background: black;
+}
+
+h1 {
+  font-size: 40px;
+  color: white;
+}
+
+getData:hover {
+  background-color: white;
+  opacity: .5s;
+  transition: 2s;
+}
